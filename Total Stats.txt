@@ -1,0 +1,84 @@
+Total Games Played:
+	Total Matches = 70
+
+Total Wins and Loses:
+	Won = 39
+	Lost = 31
+
+Fair and Unfair Games:
+	Fair = 21
+	Slightly Unfair = 17
+	Unfair = 7
+	Totally Unfair = 25
+
+Winrate:
+	Enemies Better = 27
+	My Team Better = 41
+	No Diff = 2
+
+One Rank Difference:
+	Enemy One Rank Difference = 9
+	Me One Rank Difference = 10
+	Enemies Won = 9
+	I Won = 10
+	Enemies Better Won = 5
+	Me Better Won = 6
+	Enemies Better But I Won = 4
+	Me Better But Enemies Won = 4
+	One Rank Winrate ~ 52.6%
+
+Two Ranks Difference:
+	Enemy Two Ranks Difference = 10
+	Me Two Ranks Difference = 9
+	Enemies Won = 8
+	I Won = 9
+	Enemies Better Won = 6
+	Me Better Won = 5
+	Enemies Better But I Won = 4
+	Me Better But Enemies Won = 2
+	Two Ranks Winrate ~ 47.4%
+
+
+Three Ranks Difference:
+	Enemy Three Ranks Difference = 4
+	Me Three Ranks Difference = 3
+	Enemies Won = 3
+	I Won = 4
+	Enemies Better Won = 1
+	Me Better Won = 1
+	Enemies Better But I Won = 3
+	Me Better But Enemies Won = 2
+	Three Ranks Winrate ~ 57.1%
+
+Four Ranks Difference:
+	Enemy Four Ranks Difference = 2
+	Me Four Ranks Difference = 8
+	Enemies Won = 4
+	I Won = 6
+	Enemies Better Won = 1
+	Me Better Won = 5
+	Enemies Better But I Won = 1
+	Me Better But Enemies Won = 3
+	Four Ranks Winrate ~ 60.0%
+
+Five Ranks Difference:
+	Enemy Five Ranks Difference = 2
+	Me Five Ranks Difference = 8
+	Enemies Won = 3
+	I Won = 7
+	Enemies Better Won = 0
+	Me Better Won = 5
+	Enemies Better But I Won = 2
+	Me Better But Enemies Won = 3
+	Five Ranks Winrate ~ 70.0%
+
+Six Ranks Difference:
+	Enemy Six Ranks Difference = 0
+	Me Six Ranks Difference = 5
+	Enemies Won = 3
+	I Won = 2
+	Enemies Better Won = 0
+	Me Better Won = 2
+	Enemies Better But I Won = 0
+	Me Better But Enemies Won = 3
+	Six Ranks Winrate ~ 40.0%
